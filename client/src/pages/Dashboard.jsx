@@ -15,8 +15,8 @@ export default function Dashboard(){
 <strong>Notice for Free Users</strong>
 You are currently using the Free Version of our platform.
 For assistance, you may contact our representative:
-<strong> Mr. Izaz Ahmmed  </strong>
-      01918267179
+<strong> Mr. Akash Gosh </strong>
+     01761822321
 Support Hours: 9:00 AM – 5:00 PM (Free Version)
         </div>
       </div>
